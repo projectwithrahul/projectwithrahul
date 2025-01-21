@@ -1,8 +1,7 @@
-[![MasterHead](https://www.future-processing.com/blog/10-github-influencers-worth-following/
+[![MasterHead](https://images.app.goo.gl/bwFQaKQbbqzSDKxk6
 <h1 align="center">Hi 👋, I'm Rahul Das</h1>
 <h3 align="center">A passionate social media agency owner from Bangladesh</h3>
-(img align="right" alt="Coding" width="400" src="https://www.google.com/search?q=animated+gif+agency&sca_esv=266b1bbe5c3f6893&udm=2&biw=1366&bih=607&sxsrf=ADLYWIIDAaEqD3JEJ8nBTM-Cwntk_brFsw%3A1737497344288&ei=ABuQZ_GrEeKRseMPscqq-Qc&ved=0ahUKEwjxq4SA6oeLAxXiSGwGHTGlKn8Q4dUDCBE&uact=5&oq=animated+gif+agency&gs_lp=EgNpbWciE2FuaW1hdGVkIGdpZiBhZ2VuY3lIrHpQtVNYymRwAngAkAEAmAGHAaABzAaqAQMwLje4AQPIAQD4AQGYAgCgAgCYAwCIBgGSBwCgB7sC&sclient=img#vhid=uk2gR85lmNdNuM&vssid=mosaic
-
+(img align="right" alt="Coding" width="400" src="https://images.app.goo.gl/hRscPsUkcJFAqTW36
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=projectwithrahul&label=Profile%20views&color=0e75b6&style=flat" alt="projectwithrahul" /> </p>
 
 <p align="left"> <a href="https://twitter.com/rahuldassyl" target="blank"><img src="https://img.shields.io/twitter/follow/rahuldassyl?logo=twitter&style=for-the-badge" alt="rahuldassyl" /></a> </p>
@@ -32,4 +31,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=projectwithrahul&show_icons=true&locale=en" alt="projectwithrahul" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=projectwithrahul&" alt="projectwithrahul" /></p>
-
